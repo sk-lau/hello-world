@@ -6,5 +6,5 @@ don't be rude ok
 
 im polite
 
-im not so good after all
+im god
 
