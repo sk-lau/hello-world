@@ -2,5 +2,5 @@
       before 
 echo "hello world\n"
 added
-3
+2
 ?>
